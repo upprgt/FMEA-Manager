@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "fbeba875-4084-4297-bce0-0db30e535f45",
+    "action": "created",
+    "timestamp": "2025-05-07T21:56:17"
+  },
+  {
+    "id": "fbeba875-4084-4297-bce0-0db30e535f45",
+    "action": "deleted",
+    "timestamp": "2025-05-07T21:56:23"
+  },
+  {
+    "id": "87097893-19e8-4a24-8050-e87237f7c013",
+    "action": "created",
+    "timestamp": "2025-05-07T22:03:15",
+    "data": {
+      "id": "87097893-19e8-4a24-8050-e87237f7c013",
+      "modo": "explodindo",
+      "efeito": "explosao",
+      "causa": "mal ajuste",
+      "item": "roldana",
+      "g": 9,
+      "o": 5,
+      "d": 3,
+      "rpn": 135,
+      "acao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:03:15",
+      "last_modified": "2025-05-07T22:03:36",
+      "deleted": false
+    }
+  },
+  {
+    "id": "87097893-19e8-4a24-8050-e87237f7c013",
+    "action": "edited",
+    "timestamp": "2025-05-07T22:03:25",
+    "data": {
+      "id": "87097893-19e8-4a24-8050-e87237f7c013",
+      "modo": "explodindo",
+      "efeito": "explosao",
+      "causa": "mal ajuste",
+      "item": "roldana",
+      "g": 9,
+      "o": 5,
+      "d": 3,
+      "rpn": 135,
+      "acao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:03:15",
+      "last_modified": "2025-05-07T22:03:36",
+      "deleted": false
+    }
+  },
+  {
+    "id": "87097893-19e8-4a24-8050-e87237f7c013",
+    "action": "deleted",
+    "timestamp": "2025-05-07T22:03:31",
+    "data": {
+      "id": "87097893-19e8-4a24-8050-e87237f7c013",
+      "modo": "explodindo",
+      "efeito": "explosao",
+      "causa": "mal ajuste",
+      "item": "roldana",
+      "g": 9,
+      "o": 5,
+      "d": 3,
+      "rpn": 135,
+      "acao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:03:15",
+      "last_modified": "2025-05-07T22:03:36",
+      "deleted": false
+    }
+  },
+  {
+    "id": "87097893-19e8-4a24-8050-e87237f7c013",
+    "action": "restored",
+    "timestamp": "2025-05-07T22:03:36",
+    "data": {
+      "id": "87097893-19e8-4a24-8050-e87237f7c013",
+      "modo": "explodindo",
+      "efeito": "explosao",
+      "causa": "mal ajuste",
+      "item": "roldana",
+      "g": 9,
+      "o": 5,
+      "d": 3,
+      "rpn": 135,
+      "acao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:03:15",
+      "last_modified": "2025-05-07T22:03:36",
+      "deleted": false
+    }
+  },
+  {
+    "id": "87097893-19e8-4a24-8050-e87237f7c013",
+    "action": "deleted",
+    "timestamp": "2025-05-07T22:10:26",
+    "data": {
+      "id": "87097893-19e8-4a24-8050-e87237f7c013",
+      "modo": "explodindo",
+      "efeito": "explosao",
+      "causa": "mal ajuste",
+      "item": "roldana",
+      "g": 9,
+      "o": 5,
+      "d": 3,
+      "rpn": 135,
+      "acao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:03:15",
+      "last_modified": "2025-05-07T22:10:28",
+      "deleted": true,
+      "deleted_at": "2025-05-07T22:10:31"
+    }
+  },
+  {
+    "id": "87097893-19e8-4a24-8050-e87237f7c013",
+    "action": "restored",
+    "timestamp": "2025-05-07T22:10:28",
+    "data": {
+      "id": "87097893-19e8-4a24-8050-e87237f7c013",
+      "modo": "explodindo",
+      "efeito": "explosao",
+      "causa": "mal ajuste",
+      "item": "roldana",
+      "g": 9,
+      "o": 5,
+      "d": 3,
+      "rpn": 135,
+      "acao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:03:15",
+      "last_modified": "2025-05-07T22:10:28",
+      "deleted": true,
+      "deleted_at": "2025-05-07T22:10:31"
+    }
+  },
+  {
+    "id": "87097893-19e8-4a24-8050-e87237f7c013",
+    "action": "deleted",
+    "timestamp": "2025-05-07T22:10:31",
+    "data": {
+      "id": "87097893-19e8-4a24-8050-e87237f7c013",
+      "modo": "explodindo",
+      "efeito": "explosao",
+      "causa": "mal ajuste",
+      "item": "roldana",
+      "g": 9,
+      "o": 5,
+      "d": 3,
+      "rpn": 135,
+      "acao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:03:15",
+      "last_modified": "2025-05-07T22:10:28",
+      "deleted": true,
+      "deleted_at": "2025-05-07T22:10:31"
+    }
+  },
+  {
+    "id": "87097893-19e8-4a24-8050-e87237f7c013",
+    "action": "permanently_deleted",
+    "timestamp": "2025-05-07T22:10:35",
+    "data": {
+      "id": "87097893-19e8-4a24-8050-e87237f7c013",
+      "modo": "explodindo",
+      "efeito": "explosao",
+      "causa": "mal ajuste",
+      "item": "roldana",
+      "g": 9,
+      "o": 5,
+      "d": 3,
+      "rpn": 135,
+      "acao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:03:15",
+      "last_modified": "2025-05-07T22:10:28",
+      "deleted": true,
+      "deleted_at": "2025-05-07T22:10:31"
+    }
+  },
+  {
+    "id": "70a08dc0-f16a-4681-93af-38d66f5f77c3",
+    "action": "created",
+    "timestamp": "2025-05-07T22:11:33",
+    "data": {
+      "id": "70a08dc0-f16a-4681-93af-38d66f5f77c3",
+      "modo": "aaaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaa",
+      "g": 6,
+      "o": 4,
+      "d": 2,
+      "rpn": 48,
+      "acao": "aaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:11:33",
+      "last_modified": "2025-05-07T22:11:33",
+      "deleted": true,
+      "deleted_at": "2025-05-07T22:11:36"
+    }
+  },
+  {
+    "id": "70a08dc0-f16a-4681-93af-38d66f5f77c3",
+    "action": "deleted",
+    "timestamp": "2025-05-07T22:11:36",
+    "data": {
+      "id": "70a08dc0-f16a-4681-93af-38d66f5f77c3",
+      "modo": "aaaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaa",
+      "g": 6,
+      "o": 4,
+      "d": 2,
+      "rpn": 48,
+      "acao": "aaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:11:33",
+      "last_modified": "2025-05-07T22:11:33",
+      "deleted": true,
+      "deleted_at": "2025-05-07T22:11:36"
+    }
+  },
+  {
+    "id": "70a08dc0-f16a-4681-93af-38d66f5f77c3",
+    "action": "permanently_deleted",
+    "timestamp": "2025-05-07T22:11:43",
+    "data": {
+      "id": "70a08dc0-f16a-4681-93af-38d66f5f77c3",
+      "modo": "aaaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaa",
+      "g": 6,
+      "o": 4,
+      "d": 2,
+      "rpn": 48,
+      "acao": "aaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:11:33",
+      "last_modified": "2025-05-07T22:11:33",
+      "deleted": true,
+      "deleted_at": "2025-05-07T22:11:36"
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "created",
+    "timestamp": "2025-05-07T22:11:57",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 3,
+      "rpn": 90,
+      "acao": "11111aaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:11:57",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "edited",
+    "timestamp": "2025-05-07T22:18:04",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 3,
+      "rpn": 90,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:18:11",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "edited",
+    "timestamp": "2025-05-07T22:18:08",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 3,
+      "rpn": 90,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:18:11",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "edited",
+    "timestamp": "2025-05-07T22:18:11",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 3,
+      "rpn": 90,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:18:11",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "deleted",
+    "timestamp": "2025-05-07T22:24:15",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 3,
+      "rpn": 90,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:24:19",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "restored",
+    "timestamp": "2025-05-07T22:24:19",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 3,
+      "rpn": 90,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:24:19",
+      "deleted": false
+    }
+  },
+  {
+    "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+    "action": "created",
+    "timestamp": "2025-05-07T22:24:29",
+    "data": {
+      "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+      "modo": "aaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 3,
+      "o": 5,
+      "d": 6,
+      "rpn": 90,
+      "acao": "aaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:24:29",
+      "last_modified": "2025-05-07T22:24:29",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "edited",
+    "timestamp": "2025-05-07T22:34:04",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 8,
+      "rpn": 240,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:34:04",
+      "deleted": false
+    }
+  },
+  {
+    "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+    "action": "deleted",
+    "timestamp": "2025-05-07T22:39:51",
+    "data": {
+      "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+      "modo": "aaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 3,
+      "o": 5,
+      "d": 6,
+      "rpn": 90,
+      "acao": "aaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:24:29",
+      "last_modified": "2025-05-07T22:40:03",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "deleted",
+    "timestamp": "2025-05-07T22:39:52",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 8,
+      "rpn": 240,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:39:59",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "restored",
+    "timestamp": "2025-05-07T22:39:59",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 8,
+      "rpn": 240,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:39:59",
+      "deleted": false
+    }
+  },
+  {
+    "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+    "action": "restored",
+    "timestamp": "2025-05-07T22:40:03",
+    "data": {
+      "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+      "modo": "aaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 3,
+      "o": 5,
+      "d": 6,
+      "rpn": 90,
+      "acao": "aaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:24:29",
+      "last_modified": "2025-05-07T22:40:03",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "deleted",
+    "timestamp": "2025-05-08T00:06:17",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 8,
+      "rpn": 240,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-07T22:39:59",
+      "deleted": true,
+      "deleted_at": "2025-05-08T00:06:17"
+    }
+  },
+  {
+    "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+    "action": "deleted",
+    "timestamp": "2025-05-08T00:06:18",
+    "data": {
+      "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+      "modo": "aaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 3,
+      "o": 5,
+      "d": 6,
+      "rpn": 90,
+      "acao": "aaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:24:29",
+      "last_modified": "2025-05-07T22:40:03",
+      "deleted": true,
+      "deleted_at": "2025-05-08T00:06:18"
+    }
+  },
+  {
+    "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+    "action": "created",
+    "timestamp": "2025-05-08T00:10:15",
+    "data": {
+      "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+      "modo": "aaaaaaaaaaa",
+      "efeito": "aaaaaaaa",
+      "causa": "aaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 6,
+      "o": 9,
+      "d": 3,
+      "rpn": 162,
+      "acao": "aaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-08T00:10:15",
+      "last_modified": "2025-05-08T00:10:15",
+      "deleted": false
+    }
+  },
+  {
+    "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+    "action": "edited",
+    "timestamp": "2025-05-08T00:13:38",
+    "data": {
+      "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+      "modo": "aaaaaaaaaaa",
+      "efeito": "aaaaaaaa",
+      "causa": "aaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 6,
+      "o": 9,
+      "d": 3,
+      "rpn": 162,
+      "acao": "aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "created_at": "2025-05-08T00:10:15",
+      "last_modified": "2025-05-08T00:13:38",
+      "deleted": false
+    }
+  },
+  {
+    "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+    "action": "edited",
+    "timestamp": "2025-05-08T00:23:06",
+    "data": {
+      "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+      "modo": "aaaaaaaaaaa",
+      "efeito": "aaaaaaaa",
+      "causa": "aaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 6,
+      "o": 9,
+      "d": 3,
+      "rpn": 162,
+      "acao": "aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "created_at": "2025-05-08T00:10:15",
+      "last_modified": "2025-05-08T00:23:37",
+      "deleted": false
+    }
+  },
+  {
+    "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+    "action": "deleted",
+    "timestamp": "2025-05-08T00:23:29",
+    "data": {
+      "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+      "modo": "aaaaaaaaaaa",
+      "efeito": "aaaaaaaa",
+      "causa": "aaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 6,
+      "o": 9,
+      "d": 3,
+      "rpn": 162,
+      "acao": "aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "created_at": "2025-05-08T00:10:15",
+      "last_modified": "2025-05-08T00:23:37",
+      "deleted": false
+    }
+  },
+  {
+    "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+    "action": "restored",
+    "timestamp": "2025-05-08T00:23:35",
+    "data": {
+      "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+      "modo": "aaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 3,
+      "o": 5,
+      "d": 6,
+      "rpn": 90,
+      "acao": "aaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:24:29",
+      "last_modified": "2025-05-08T00:23:35",
+      "deleted": false
+    }
+  },
+  {
+    "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+    "action": "restored",
+    "timestamp": "2025-05-08T00:23:37",
+    "data": {
+      "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+      "modo": "aaaaaaaaaaa",
+      "efeito": "aaaaaaaa",
+      "causa": "aaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 6,
+      "o": 9,
+      "d": 3,
+      "rpn": 162,
+      "acao": "aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "created_at": "2025-05-08T00:10:15",
+      "last_modified": "2025-05-08T00:23:37",
+      "deleted": false
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "restored",
+    "timestamp": "2025-05-08T00:23:44",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 8,
+      "rpn": 240,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-08T00:23:44",
+      "deleted": false
+    }
+  },
+  {
+    "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+    "action": "deleted",
+    "timestamp": "2025-05-08T00:27:29",
+    "data": {
+      "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+      "modo": "Superaquecimento",
+      "efeito": "Falha no funcionamento",
+      "causa": "Ventilação insuficiente",
+      "item": "Motor Elétrico",
+      "g": 9,
+      "o": 4,
+      "d": 3,
+      "rpn": 108,
+      "acao": "Implementar ação corretiva ",
+      "created_at": "2025-05-08T00:10:15",
+      "last_modified": "2025-05-08T00:32:02",
+      "deleted": true,
+      "deleted_at": "2025-05-08T00:27:29"
+    }
+  },
+  {
+    "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+    "action": "deleted",
+    "timestamp": "2025-05-08T00:27:30",
+    "data": {
+      "id": "7087b697-6b34-40da-918a-1c7e4f87e0af",
+      "modo": "aaaaaaaaa",
+      "efeito": "aaaaaaaaaaaa",
+      "causa": "aaaaaaaaaaaaaaa",
+      "item": "aaaaaaaaaaa",
+      "g": 6,
+      "o": 5,
+      "d": 8,
+      "rpn": 240,
+      "acao": "11111aaaaabbbbb",
+      "created_at": "2025-05-07T22:11:57",
+      "last_modified": "2025-05-08T00:23:44",
+      "deleted": true,
+      "deleted_at": "2025-05-08T00:27:30"
+    }
+  },
+  {
+    "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+    "action": "deleted",
+    "timestamp": "2025-05-08T00:27:31",
+    "data": {
+      "id": "eaaa779a-a68e-46b9-bda5-e4c8bf6da549",
+      "modo": "aaaaaaaaaaaa",
+      "efeito": "aaaaaaaaaaaaaaa",
+      "causa": "aaaaaaaaaa",
+      "item": "aaaaaaaaa",
+      "g": 3,
+      "o": 5,
+      "d": 6,
+      "rpn": 90,
+      "acao": "aaaaaaaaaaaaaaaaaaa",
+      "created_at": "2025-05-07T22:24:29",
+      "last_modified": "2025-05-08T00:23:35",
+      "deleted": true,
+      "deleted_at": "2025-05-08T00:27:31"
+    }
+  },
+  {
+    "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+    "action": "edited",
+    "timestamp": "2025-05-08T00:32:02",
+    "data": {
+      "id": "0df364ab-1ff5-49e6-ad06-2e3a9ccbba2b",
+      "modo": "Superaquecimento",
+      "efeito": "Falha no funcionamento",
+      "causa": "Ventilação insuficiente",
+      "item": "Motor Elétrico",
+      "g": 9,
+      "o": 4,
+      "d": 3,
+      "rpn": 108,
+      "acao": "Implementar ação corretiva ",
+      "created_at": "2025-05-08T00:10:15",
+      "last_modified": "2025-05-08T00:32:02",
+      "deleted": true,
+      "deleted_at": "2025-05-08T00:27:29"
+    }
+  },
+  {
+    "id": "f6cf951a-ea97-47f5-815c-4bb46cc31f9a",
+    "action": "created",
+    "timestamp": "2025-05-08T00:37:02",
+    "data": {
+      "id": "f6cf951a-ea97-47f5-815c-4bb46cc31f9a",
+      "modo": "\tSobreaquecimento",
+      "efeito": "Parada de produção",
+      "causa": "Falta de ventilação",
+      "item": "Motor Elétrico",
+      "g": 9,
+      "o": 6,
+      "d": 4,
+      "rpn": 216,
+      "acao": "Instalar ventilador auxiliar",
+      "created_at": "2025-05-08T00:37:02",
+      "last_modified": "2025-05-08T00:37:02",
+      "deleted": false
+    }
+  },
+  {
+    "id": "cc41cb3f-8afc-4be0-a9cc-46447f519154",
+    "action": "created",
+    "timestamp": "2025-05-08T00:37:27",
+    "data": {
+      "id": "cc41cb3f-8afc-4be0-a9cc-46447f519154",
+      "modo": "\tFalha intermitente",
+      "efeito": "Oscilação no equipamento",
+      "causa": "Má conexão elétrica",
+      "item": "Inversor",
+      "g": 7,
+      "o": 5,
+      "d": 3,
+      "rpn": 105,
+      "acao": "Verificar conectores semanalmente",
+      "created_at": "2025-05-08T00:37:27",
+      "last_modified": "2025-05-08T00:37:27",
+      "deleted": false
+    }
+  },
+  {
+    "id": "5e8c3970-ef45-441a-8ac8-f99bd2945a6f",
+    "action": "created",
+    "timestamp": "2025-05-08T00:38:32",
+    "data": {
+      "id": "5e8c3970-ef45-441a-8ac8-f99bd2945a6f",
+      "modo": "Ruído excessivo",
+      "efeito": "Redução da vida útil",
+      "causa": "Lubrificação inadequada",
+      "item": "Rolamento",
+      "g": 6,
+      "o": 4,
+      "d": 6,
+      "rpn": 144,
+      "acao": "Criar plano de lubrificação",
+      "created_at": "2025-05-08T00:38:32",
+      "last_modified": "2025-05-08T00:38:32",
+      "deleted": false
+    }
+  },
+  {
+    "id": "de0a9ce3-a9b4-4fd0-9ca9-ea8196447cb1",
+    "action": "created",
+    "timestamp": "2025-05-08T00:38:55",
+    "data": {
+      "id": "de0a9ce3-a9b4-4fd0-9ca9-ea8196447cb1",
+      "modo": "Leitura incorreta",
+      "efeito": "Alarmes falsos",
+      "causa": "Sujeira no sensor",
+      "item": "Sensor de fluxo",
+      "g": 5,
+      "o": 3,
+      "d": 2,
+      "rpn": 30,
+      "acao": "Limpeza periódica do sensor",
+      "created_at": "2025-05-08T00:38:55",
+      "last_modified": "2025-05-08T00:38:55",
+      "deleted": false
+    }
+  },
+  {
+    "id": "672f7d36-cbab-4245-a52d-55eea7705001",
+    "action": "created",
+    "timestamp": "2025-05-08T00:39:20",
+    "data": {
+      "id": "672f7d36-cbab-4245-a52d-55eea7705001",
+      "modo": "Travamento geral",
+      "efeito": "Linha parada",
+      "causa": "Falha de firmware",
+      "item": "CLP",
+      "g": 10,
+      "o": 2,
+      "d": 7,
+      "rpn": 140,
+      "acao": "Atualizar firmware",
+      "created_at": "2025-05-08T00:39:20",
+      "last_modified": "2025-05-08T00:39:20",
+      "deleted": false
+    }
+  },
+  {
+    "id": "6853bc0d-deb8-42db-93a2-6871b7f57cc6",
+    "action": "created",
+    "timestamp": "2025-05-08T00:40:09",
+    "data": {
+      "id": "6853bc0d-deb8-42db-93a2-6871b7f57cc6",
+      "modo": "Desarme frequente",
+      "efeito": "Parada de máquina",
+      "causa": "\tSobrecarga",
+      "item": "Disjuntor",
+      "g": 8,
+      "o": 4,
+      "d": 5,
+      "rpn": 160,
+      "acao": "Redimensionar circuito",
+      "created_at": "2025-05-08T00:40:09",
+      "last_modified": "2025-05-08T00:40:09",
+      "deleted": false
+    }
+  },
+  {
+    "id": "0795b1ef-030b-48aa-9020-9130bcfd6d05",
+    "action": "created",
+    "timestamp": "2025-05-08T00:40:39",
+    "data": {
+      "id": "0795b1ef-030b-48aa-9020-9130bcfd6d05",
+      "modo": "\tVazamento",
+      "efeito": "Contaminação do ambiente",
+      "causa": "Junta desgastada",
+      "item": "Bomba hidráulica",
+      "g": 6,
+      "o": 5,
+      "d": 4,
+      "rpn": 120,
+      "acao": "Substituir junta",
+      "created_at": "2025-05-08T00:40:39",
+      "last_modified": "2025-05-08T00:40:39",
+      "deleted": false
+    }
+  },
+  {
+    "id": "5ec65bbb-428d-41f1-8713-d06b15d36e45",
+    "action": "created",
+    "timestamp": "2025-05-08T00:41:02",
+    "data": {
+      "id": "5ec65bbb-428d-41f1-8713-d06b15d36e45",
+      "modo": "Curto-circuito",
+      "efeito": "Incêndio potencial",
+      "causa": "\tUmidade",
+      "item": "Painel elétrico",
+      "g": 10,
+      "o": 3,
+      "d": 6,
+      "rpn": 180,
+      "acao": "Instalar desumidificador",
+      "created_at": "2025-05-08T00:41:02",
+      "last_modified": "2025-05-08T00:41:02",
+      "deleted": false
+    }
+  },
+  {
+    "id": "ec6c19da-3c21-417a-a7be-3c15cf8e3868",
+    "action": "created",
+    "timestamp": "2025-05-08T00:41:57",
+    "data": {
+      "id": "ec6c19da-3c21-417a-a7be-3c15cf8e3868",
+      "modo": "Parada inesperada",
+      "efeito": "Atraso na produção",
+      "causa": "\tSensores desalinhados",
+      "item": "Esteira transportadora",
+      "g": 7,
+      "o": 4,
+      "d": 5,
+      "rpn": 140,
+      "acao": "Realinhar sensores semanalmente",
+      "created_at": "2025-05-08T00:41:57",
+      "last_modified": "2025-05-08T00:41:57",
+      "deleted": false
+    }
+  },
+  {
+    "id": "8c2b8d35-1214-4a46-9e7b-22747a82a54b",
+    "action": "created",
+    "timestamp": "2025-05-08T00:42:21",
+    "data": {
+      "id": "8c2b8d35-1214-4a46-9e7b-22747a82a54b",
+      "modo": "Ruído anormal",
+      "efeito": "Queda de pressão",
+      "causa": "\tDesgaste interno",
+      "item": "Compressor",
+      "g": 6,
+      "o": 3,
+      "d": 4,
+      "rpn": 72,
+      "acao": "Revisão geral",
+      "created_at": "2025-05-08T00:42:21",
+      "last_modified": "2025-05-08T00:42:21",
+      "deleted": false
+    }
+  },
+  {
+    "id": "c316c98a-629b-4888-88f2-9d38b18c2691",
+    "action": "created",
+    "timestamp": "2025-05-08T00:43:31",
+    "data": {
+      "id": "c316c98a-629b-4888-88f2-9d38b18c2691",
+      "modo": "Corte irregular",
+      "efeito": "Produto fora de especificação",
+      "causa": "Lâmina cega",
+      "item": "Máquina de corte",
+      "g": 8,
+      "o": 6,
+      "d": 3,
+      "rpn": 144,
+      "acao": "Troca programada de lâminas",
+      "created_at": "2025-05-08T00:43:31",
+      "last_modified": "2025-05-08T00:43:31",
+      "deleted": false
+    }
+  },
+  {
+    "id": "91044b46-61f1-409f-8e91-acbbf753cb25",
+    "action": "created",
+    "timestamp": "2025-05-08T00:43:53",
+    "data": {
+      "id": "91044b46-61f1-409f-8e91-acbbf753cb25",
+      "modo": "Falha de comunicação",
+      "efeito": "Perda de monitoramento",
+      "causa": "Queda de rede",
+      "item": "Sistema SCADA",
+      "g": 7,
+      "o": 2,
+      "d": 6,
+      "rpn": 84,
+      "acao": "Instalar redundância de rede",
+      "created_at": "2025-05-08T00:43:53",
+      "last_modified": "2025-05-08T00:43:53",
+      "deleted": false
+    }
+  },
+  {
+    "id": "0ac8afab-6453-44fc-b5c0-5dff636d570b",
+    "action": "created",
+    "timestamp": "2025-05-08T00:44:18",
+    "data": {
+      "id": "0ac8afab-6453-44fc-b5c0-5dff636d570b",
+      "modo": "Resposta lenta",
+      "efeito": "\tPerda de controle",
+      "causa": "Ar com umidade",
+      "item": "Válvula pneumática",
+      "g": 6,
+      "o": 3,
+      "d": 5,
+      "rpn": 90,
+      "acao": "\tInstalar secador de ar",
+      "created_at": "2025-05-08T00:44:18",
+      "last_modified": "2025-05-08T00:44:18",
+      "deleted": false
+    }
+  },
+  {
+    "id": "4487a671-fbee-4c4e-8eaa-9ee46c199e0b",
+    "action": "created",
+    "timestamp": "2025-05-08T00:44:41",
+    "data": {
+      "id": "4487a671-fbee-4c4e-8eaa-9ee46c199e0b",
+      "modo": "Baixo desempenho",
+      "efeito": "\tSuperaquecimento do sistema",
+      "causa": "Filtro sujo",
+      "item": "Chiller",
+      "g": 7,
+      "o": 4,
+      "d": 3,
+      "rpn": 84,
+      "acao": "\tLimpeza mensal do filtro",
+      "created_at": "2025-05-08T00:44:41",
+      "last_modified": "2025-05-08T00:44:41",
+      "deleted": false
+    }
+  },
+  {
+    "id": "d0dfe78d-815a-4b0a-a6c8-56451e3d432c",
+    "action": "created",
+    "timestamp": "2025-05-08T00:45:06",
+    "data": {
+      "id": "d0dfe78d-815a-4b0a-a6c8-56451e3d432c",
+      "modo": "Falha de aderência",
+      "efeito": "Produto com defeito",
+      "causa": "Temperatura fora do padrão",
+      "item": "Estação de solda",
+      "g": 9,
+      "o": 5,
+      "d": 2,
+      "rpn": 90,
+      "acao": "Calibração regular",
+      "created_at": "2025-05-08T00:45:06",
+      "last_modified": "2025-05-08T00:45:06",
+      "deleted": false
+    }
+  }
+]
