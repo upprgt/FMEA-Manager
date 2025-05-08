@@ -1,64 +1,56 @@
-fmea-managerlean. mean. fmea machine.
+# FMEA-Manager
 
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+**Lean, mean FMEA machine** – spot, analyze, and fix your process risks before they bite you in the ass.
 
-why the fuck you need this
+---
 
-spot your process’s worst offenders by risk priority number (rpn) in literally 2 seconds
+## 🚀 why you need this
 
-no database bullshit: everything lives in a human‑readable json
+* **Instant prioritization**: calculate Risk Priority Number (RPN = G × O × D) in real time and laser-focus on your worst offenders.
+* **Zero overhead**: JSON-based storage – human-readable, Git-friendly, zero-config.
+* **Audit-ready**: every create/edit/delete/restoration logged in `fmea_log.json`, auto-pruned after 30 days.
+* **Lightweight UI**: Flet frontend with dark theme, maximized by default – no corporate bullshit.
 
-portable audit log: every create/edit/delete/restoration stamped in fmea_log.json
+## 🔧 features
 
-lightweight flet ui: drop‑in, dark‑mode, maximized by default, zero config
+* **CRUD operations**: add, edit, soft-delete, restore, or permanently remove failure modes.
+* **Auto‑RPN**: instant G (gravidade), O (ocorrência), D (detecção) multiplication.
+* **3‑month reliability**: optional field → compute system reliability & failure probability.
+* **Real‑time histograms**: G, O, D, and RPN charts for at-a-glance decision making.
+* **Flexible export**: `.xlsx` (sheet “itens”), `.csv` (semicolon-delimited), `.pdf` (auto-table), or `.png` (table snapshot).
 
-features
+## ⚡️ quickstart
 
-crud: add, edit, soft‑delete, restore, permanently delete entries
+1. **clone** the repo:
 
-auto-rpn: gravidade (g) × ocorrência (o) × detecção (d) calculated on the fly
+   ```bash
+   git clone https://github.com/upprgt/FMEA-Manager.git
+   cd FMEA-Manager
+   ```
+2. **install** dependencies:
 
-3-month reliability: optional reliability field → system reliability & failure probability
+   ```bash
+   pip install flet pandas matplotlib dataframe_image
+   ```
+3. **run** the app:
 
-histograms: instant charts for g, o, d & total rpn for instant prioritization
+   ```bash
+   python auto_fmea.py
+   ```
+4. **enter** your failure modes, eyeball histograms, export your report, and sleep easy.
 
-export: .xlsx, .csv (semicolon), .pdf (table), .png (snapshot)
+## 📂 config files
 
-audit-log pruning: auto‑removes deleted logs older than 30 days
+* `fmea_config.json`: your data store (edit by hand or via UI).
+* `fmea_log.json`: immutable audit trail of last 30 days of changes.
 
-install & run
+## 🛣 roadmap
 
-clone this shit
+* AI-powered failure-mode suggestions & in-app chat.
+* Interactive threshold sliders & color-coded risk levels.
+* Optional SQLite fallback for enterprise power users.
+* CLI tools: `fmea validate`, `fmea export --high-risk`.
 
-git clone https://github.com/upprgt/FMEA-Manager.git
-cd FMEA-Manager
+## 📜 license
 
-install dependencies
-
-pip install flet pandas matplotlib dataframe_image
-
-run the app
-
-python auto_fmea.py
-
-profit—enter your failure modes, eyeball the histograms, export reports
-
-config files
-
-fmea_config.json: your entries (human‑editable)
-
-fmea_log.json: audit trail (don’t manually edit unless you’re masochistic)
-
-coming up next
-
-ai‑driven failure‑mode suggestions & chat assistant
-
-interactive threshold sliders & color‑coded bars
-
-sqlite fallback for power users
-
-cli tools: fmea validate, fmea export --high-risk
-
-license
-
-mit. do whatever you want, just don’t sue me.
+MIT License – use, modify, and sell. just don’t sue.
